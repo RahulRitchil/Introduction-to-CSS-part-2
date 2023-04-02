@@ -323,9 +323,23 @@ body{
 }
 /* main3 end */
 .fbody{
-    background-color: #081c15;
+    background-color: #1b3a4b;
 }
 .fbodycon{
     width: 60%;
     margin: 0 auto;
+    display: flex;
+}
+.ful1{
+    width: 24%;
+    height: auto;
+}
+.ful1 ul{
+    list-style-type: none;
+    padding: 60px 0px;
+    line-height: 40px;
+}
+.ful1 ul li a{
+    text-decoration: none;
+    color: #edede9;
 }
