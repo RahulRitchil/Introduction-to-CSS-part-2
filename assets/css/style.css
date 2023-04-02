@@ -322,3 +322,10 @@ body{
     padding-left: 50px;
 }
 /* main3 end */
+.fbody{
+    background-color: #081c15;
+}
+.fbodycon{
+    width: 60%;
+    margin: 0 auto;
+}
